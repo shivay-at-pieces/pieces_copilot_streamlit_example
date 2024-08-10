@@ -5,7 +5,7 @@
 1. Clone the repository:
 
    ```bash
-   git clone [https://github.com/hivay-at-pieces/pieces-copilot-streamlit.git](https://github.com/shivay-at-pieces/pieces_copilot_streamlit_example)
+   git clone https://github.com/shivay-at-pieces/pieces_copilot_streamlit_example
    ```
 2. Prerequisites: 
    
